@@ -41,45 +41,6 @@ DOMAIN-SUFFIX,so.com
 # 58
 DOMAIN-SUFFIX,58.com
 
-# Alibaba
-DOMAIN-SUFFIX,1688.com
-DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alibabausercontent.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,alicloudccp.com
-DOMAIN-SUFFIX,aliexpress.com
-DOMAIN-SUFFIX,aliimg.com
-DOMAIN-SUFFIX,alikunlun.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,alisoft.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncdn.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,aliyundrive.com
-DOMAIN-SUFFIX,aliyundrive.net
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,ele.me
-DOMAIN-SUFFIX,hichina.com
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,taobaocdn.com
-DOMAIN-SUFFIX,tbcache.com
-DOMAIN-SUFFIX,tbcdn.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
-DOMAIN-SUFFIX,ucweb.com
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,xiami.net
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
-
 # Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -93,25 +54,6 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
-
-# Bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.co
-DOMAIN-SUFFIX,biliintl.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,smtcdns.net
 
 # ByteDance
 DOMAIN-SUFFIX,amemv.com
@@ -254,22 +196,6 @@ DOMAIN-SUFFIX,youdao.com
 # PPTV、PPLive
 DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,pptv.com
-
-# Sina
-DOMAIN-SUFFIX,leju.com
-DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,sina.com
-DOMAIN-SUFFIX,sina.com.cn
-DOMAIN-SUFFIX,sina.cn
-DOMAIN-SUFFIX,sinaapp.com
-DOMAIN-SUFFIX,sinaapp.cn
-DOMAIN-SUFFIX,sinaimg.com
-DOMAIN-SUFFIX,sinaimg.cn
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weibo.cn
-DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-SUFFIX,weibocdn.cn
-DOMAIN-SUFFIX,xiaoka.tv
 
 # Sohu Sogo
 DOMAIN-SUFFIX,go2map.com
